@@ -20,9 +20,9 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="75" height="75"/> 
     </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+    <!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="75" height="75"/> 
-    </a> 
+    </a>  -->
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> 
     </a> 
@@ -32,9 +32,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> 
     </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75" height="75"/> 
-    </a> 
+    </a>  -->
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
     </a> 
@@ -59,9 +59,9 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
     </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="75" height="75"/> 
-    </a> 
+    </a>  -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> 
     </a> 

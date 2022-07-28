@@ -1,6 +1,6 @@
 # Hi 👋, I'm Andrei Costiv
 
-## A passionate Software Developer
+## A passionate **W**eb **D**eveloper
   
 - 👨‍💻 Web Developer at [Logma Systems Design Ltd](https://www.onefitsoftware.com)
 - 💼 My portfolio and CV [https://costivandrei.tech](https://costivandrei.tech)

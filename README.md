@@ -10,14 +10,14 @@
 
   
 
-- 💼 My portfolio [https://costivandrei.tech](https://costivandrei.tech)
+- 💼 My portfolio and CV [https://costivandrei.tech](https://costivandrei.tech)
 
   
 
 - 📫 Send me an email costivandrei@gmail.com
 
 
-- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="12" /> My LinkedIn: [andrei-costiv](https://www.linkedin.com/in/andrei-costiv/)
+- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="20" width="20" /> My LinkedIn: [andrei-costiv](https://www.linkedin.com/in/andrei-costiv/)
 
 
 

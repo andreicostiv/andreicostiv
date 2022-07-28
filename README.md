@@ -1,26 +1,11 @@
-<h1  align="center">Hi 👋, I'm Andrei Costiv</h1>
+# Hi 👋, I'm Andrei Costiv
 
+## A passionate Software Developer
   
-
-<h2  align="center">A passionate Software Developer</h2>
-
-  
-
 - 👨‍💻 Web Developer at [Logma Systems Design Ltd](https://www.onefitsoftware.com)
-
-  
-
 - 💼 My portfolio and CV [https://costivandrei.tech](https://costivandrei.tech)
-
-  
-
 - 📫 Send me an email costivandrei@gmail.com
-
-
 - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="20" width="20" /> My LinkedIn: [andrei-costiv](https://www.linkedin.com/in/andrei-costiv/)
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

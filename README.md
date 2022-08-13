@@ -22,6 +22,8 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img src="./icons/sass.svg" alt="sass" height="75"/> 
     </a>
+</p>
+<p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="./icons/bootstrap.svg" alt="bootstrap"  height="75"/> 
     </a> 
@@ -34,7 +36,9 @@
     <a href="https://react-spring.dev" target="_blank" rel="noreferrer"> 
         <img src="./icons/react-spring.svg" alt="nextjs" height="75"/> 
     </a> 
-        <a href="https://mui.com" target="_blank" rel="noreferrer"> 
+</p>
+<p align="center">
+    <a href="https://mui.com" target="_blank" rel="noreferrer"> 
         <img src="./icons/mui.svg" alt="nextjs" height="75"/> 
     </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
@@ -46,6 +50,8 @@
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
         <img src="./icons/babel.svg" alt="babel" height="75"/> 
     </a> 
+</p>
+<p align="center">
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
         <img src="./icons/webpack.svg" alt="webpack"    height="75"/> 
     </a>
@@ -58,6 +64,8 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="./icons/csharp.svg" alt="csharp" height="75"/> 
     </a> 
+</p>
+<p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="./icons/node.svg" alt="nodejs" height="75"/> 
     </a> 
@@ -70,6 +78,8 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="./icons/postgresql.svg" alt="postgresql" height="75"/> 
     </a> 
+</p>
+<p align="center">
     <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="./icons/" alt="express" height="75"/> 
     </a>  -->
@@ -83,3 +93,5 @@
         <img src="./icons/git.svg" alt="git" height="75"/> 
     </a> 
 </p>
+
+

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Andrei Costiv
+# Hi 👋, I'm Andrei
 
 ## A passionate **W**eb **D**eveloper
   

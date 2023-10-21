@@ -4,7 +4,7 @@
 ## A passionate **W**eb **D**eveloper
   
 - 👨‍💻 Work at Peninsula UK
-- 💼 My portfolio [https://costivandrei.tech](https://costivandrei.tech)
+- 💼 My portfolio [https://www.ui-dev.ninja](https://www.ui-dev.ninja)
 - 📫 Send me an email costivandrei@gmail.com
 - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="18" width="18" /> My LinkedIn [andrei-costiv](https://www.linkedin.com/in/andrei-costiv/)
 

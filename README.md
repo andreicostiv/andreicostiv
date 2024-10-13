@@ -5,7 +5,7 @@
   
 - 👨‍💻 Work at Peninsula UK
 - 📫 Send me an email costivandrei@gmail.com
-- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="18" width="18" /> My LinkedIn [andrei-costiv](https://www.linkedin.com/in/andrei-costiv/)
+- My <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="20" width="20" /> [costiv-andrei](https://www.linkedin.com/in/andrei-costiv/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

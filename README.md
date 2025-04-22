@@ -1,7 +1,7 @@
 # Hi 👋, I'm Andrei
   Nice to meet you)
 
-## A passionate **W**eb **D**eveloper
+## **W**eb **D**eveloper
   
 - 👨‍💻 Work at Peninsula UK
 - 📫 Send me an email costivandrei@gmail.com
